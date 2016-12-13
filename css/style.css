@@ -15,11 +15,12 @@ body {
 	
 }
 
-#footer a {
+#social > a {
 
 
 color: #F8F8FB;
 text-decoration: none;
+text-align: center;
 font-size: 25px;
 padding: 8px;
 
@@ -29,10 +30,13 @@ padding: 8px;
 
 
 
-#footer a:hover {
+
+
+#social a:hover {
 
 	color: #aaaaaa ;
 	opacity: 0,10;
+
 }
 
 #wrapper {
@@ -93,8 +97,47 @@ background-color: #F8F8FB;
 
 
 
+
+
 #logo {
 
 	width: 200px;
 }
 
+#nav {
+  list-style-type: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+#nav > a {
+ 
+    background-color: #73305B;
+    text-decoration: none;
+	color: #F8F8FB;
+	text-align: center;
+	display: inline
+	
+
+}
+
+#nav > a:hover {
+
+	color: #aaaaaa ;
+	opacity: 0,10;
+
+}
+
+
+
+#bloc { 
+
+ text-align: justify;
+ letter-spacing: 1px;
+ 
+  background-color: #F8F8FB;
+
+}
