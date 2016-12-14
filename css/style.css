@@ -17,6 +17,12 @@ body {
 	
 }
 
+.card {
+
+  margin:  5px;
+
+}
+
 
 
 
@@ -24,8 +30,9 @@ body {
 
 
 color: #F8F8FB;
-font-size: 25px;
 padding: 5px;
+font-size: 25px;
+
 
 
 
@@ -113,8 +120,8 @@ background-color: #F8F8FB;
 #nav {
   list-style-type: none;
   display: inline;
-  margin: 0;
-  padding: 0;
+  
+
 }
 
 
@@ -125,7 +132,7 @@ background-color: #F8F8FB;
     text-decoration: none;
 	color: #F8F8FB;
 	text-align: center;
-	display: inline
+	display: inline;
 	
 
 }
