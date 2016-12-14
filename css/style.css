@@ -13,20 +13,24 @@ body {
 	padding-bottom:  3em;
 	text-align: center;
 	
+
+	
 }
 
-#social > a {
+
+
+
+#social > a   {
 
 
 color: #F8F8FB;
-text-decoration: none;
-text-align: center;
 font-size: 25px;
-padding: 8px;
+padding: 5px;
 
 
 
 }
+
 
 
 
@@ -38,6 +42,8 @@ padding: 8px;
 	opacity: 0,10;
 
 }
+
+
 
 #wrapper {
 
